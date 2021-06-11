@@ -1,0 +1,7 @@
+services: 
+    mysql:
+        ports:
+    # mysql
+    nodejs:
+    # nodejs
+    # express
